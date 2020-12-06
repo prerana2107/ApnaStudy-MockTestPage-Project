@@ -107,3 +107,6 @@
 .pb-3, .py-3 {
     padding-bottom: 6rem!important;
 }
+#nav-tab{
+    margin-left: -35px;
+}
