@@ -59,6 +59,9 @@
    #wrapper {
         padding-left: 0px;
     } 
+    #menu-toggle{
+        margin-right: 40% !important;
+    }
   }
 
 /* // Large devices (desktops, 992px and up) */
