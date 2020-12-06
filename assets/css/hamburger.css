@@ -19,7 +19,7 @@
 	background: #ffffff;
 	height: 3px;
 	width:57%;
-	background:rgb(0, 27, 148);
+	
 	border-radius:8px;
 	transition: all cubic-bezier(0.26, 0.1, 0.27, 1.55) 0.35s;
 }
